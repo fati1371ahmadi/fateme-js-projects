@@ -1,1 +1,0 @@
-In this exercise we catch user birthday and age so clculate the year they are.

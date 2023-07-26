@@ -1,0 +1,1 @@
+In this exercise wited js code for calculator .User fill the numbers and oprator datas and calulate them.
