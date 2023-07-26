@@ -1,0 +1,1 @@
+In this excersie i was changed case of words from lowercase to upercase.

@@ -1,0 +1,1 @@
+In this excersie it's a calculator.It catch numbers from users and do operate -,+,*,/ for theme.If data get input not a number users get error message.
