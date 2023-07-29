@@ -1,0 +1,2 @@
+# In this function, the Celsius temperature value is taken as an input and then using the formula to convert the Celsius temperature to Fahrenheit, the Fahrenheit value is calculated and returned as the output of the function. so that the formula for converting Celsius temperature to Fahrenheit is as follows:
+F = (C * 9/5) + 32
